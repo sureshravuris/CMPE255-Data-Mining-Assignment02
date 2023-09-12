@@ -4,7 +4,4 @@ This repository contains my work on Assignments where I've performed end2end Mac
 
 
 **Resources:**
-PyCaret's Library of Wisdom
-PyCaret's Secret Scrolls (GitHub)
-PyCaret's Gallery of Examples
-PyCaret's Official Tales
+---------------------------------------------------------------------------------------------------
