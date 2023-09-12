@@ -6,6 +6,7 @@ This repository contains my work on Assignments where I've performed end2end Mac
 
 Resources:
 JADBio end2end AutoML: 
+
 •	https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/
 
 •	https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
